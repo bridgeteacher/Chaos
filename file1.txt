@@ -1,3 +1,1 @@
-This is not a  corrupted file.
-This is still not a corrupted file.
-Not yet a corrupted file.
+This is a corrupted file. Find corrupted commit and remove it.
