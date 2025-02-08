@@ -1,3 +1,5 @@
 This is not a  corrupted file.
 This is still not a corrupted file.
 Not yet a corrupted file.
+This line from this branch should be here #1.
+This line from this branch should not be here #1.
